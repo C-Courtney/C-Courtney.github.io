@@ -1,1 +1,102 @@
-AAAAAAAAAAAAAAAAHHHHHHHHHHHHH
+<!DOCTYPE html>
+<html>
+  <!--Courtney English, March 31st, 2025-->
+  <!--This is the main page of my website-->
+  <head>
+    <meta charset="utf-8" />
+    <title>Pie Stuff</title>
+    <link rel="stylesheet" href="style.css" />
+    <style></style>
+  </head>
+  <body>
+    <h1>Strawberry Rhubarb Pie</h1>
+    <p>
+      This pie is a delicous treat best served with a generous helping of
+      vanilla ice cream. Perfect for birthdays and holidays alike, this pie will
+      melt your socks off. <strong>Prep Time:</strong> 3 hours
+      <strong>Bake Time:</strong> 50 minutes <strong>Total Time:</strong> 7
+      hous.
+    </p>
+
+    <h2>Ingredients</h2>
+    <ul>
+      <li>Pie crust</li>
+      <li>3 cups sliced rhubarb</li>
+      <li>2 1/2 cups chopped strawberries</li>
+      <li>1/3 cup brown suger, lightly packed</li>
+      <li>1/3 cup granulated suger</li>
+      <li>1/4 cornstarch</li>
+      <li>1 tsp salt</li>
+      <li>1 tbsp orange juice</li>
+      <li>1/2 tsp pure vanilla extract</li>
+      <li>2 tbsp unsalted butter, cut into small pieces</li>
+      <li>1 large egg, lightly beaten with 1 tbsp milk</li>
+    </ul>
+    <h2>Instructions</h2>
+    <ol>
+      <li>Make 2 pie crusts</li>
+      <br />
+      <li>
+        tir the rhubarb, strawberries, brown sugar, granulated sugar,
+        cornstarch, salt, orange juice, and vanilla extract together in a large
+        bowl. Set filling aside as the oven preheats.
+      </li>
+      <br />
+      <li>Preheat oven to 400°F (204°C).</li>
+      <br />
+      <li>
+        Roll out the chilled pie dough: On a floured work surface, roll out one
+        of the discs of chilled dough (keep the other one in the refrigerator).
+        Turn the dough about a quarter turn after every few rolls until you have
+        a circle 12 inches in diameter. Carefully place the dough into a 9-inch
+        pie dish. Tuck it in with your fingers, making sure it is smooth. Spoon
+        the filling into the crust, leaving all of the excess liquid in the bowl
+        (you don’t want that in the filling—discard it). Dot the pieces of
+        butter on top of the filling.
+      </li>
+      <br />
+      <li>
+        Arrange the lattice: Remove the other disc of chilled pie dough from the
+        refrigerator. Roll the dough into a circle that is 12 inches diameter.
+        Using a pastry wheel, sharp knife, or pizza cutter, cut strips 1/2- to
+        1-inch wide. Carefully thread the strips over and under one another,
+        pulling back strips as necessary to weave. Press the edges of the strips
+        into the bottom pie crust edges to seal. Use a small knife to trim off
+        excess dough. Crimp the pie crust edges with a fork, if desired.
+        (Alternatively, you can simply cover the filling with the 12-inch pie
+        dough circle. Cut slits in the top to form steam vents. Trim and crimp
+        the edges. Or a crumble or streusel topping would be great.)
+      </li>
+      <br />
+      <li>
+        Place the pie onto a large baking sheet and bake for 20 minutes. Keeping
+        the pie in the oven, turn the temperature down to 350°F (177°C) and bake
+        for an additional 30-35 minutes. After the first 20 minutes of bake
+        time, I place a pie crust shield on top of the pie to prevent the edges
+        from browning too quickly.
+      </li>
+      <br />
+      <li>
+        Allow the pie to cool for 3 full hours at room temperature before
+        serving. This time allows the filling to thicken up. Cover leftovers
+        tightly and store in the refrigerator for up to 5 days.
+      </li>
+      <br />
+    </ol>
+
+    <p>
+      For general tips, go to the main page
+      <a href="https://accurate-private-voyage.glitch.me/">here</a>, or for
+      advice specific to this recipe, go
+      <a href="https://sallysbakingaddiction.com/strawberry-rhubarb-pie/"
+        >here.</a
+      >
+    </p>
+    <p>
+      <a href="https://sallysbakingaddiction.com/strawberry-rhubarb-pie/"
+        >Recipe credit</a
+      >
+    </p>
+  </body>
+</html>
+
