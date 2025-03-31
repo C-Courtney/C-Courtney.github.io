@@ -1,7 +1,42 @@
+/*Courtney E, March 31st, 2025
+This is the style of the main page*/
+
 body {
-  background-color:teal;
+  font-family: sans-serif;
+  background-color: LemonChiffon;
+  color: DarkSlateGrey;
 }
 
-.IntroP {
-  color:pink;
+#IntroP {
+  text-align: left;
 }
+
+#Image1 {
+  position: relative;
+  margin: auto;
+  display: block;
+}
+
+#tablebox {
+  color: black;
+  border: 3px solid black;
+  margin: auto;
+  padding: 10px;
+  width: 600px;
+  text-align: auto;
+}
+
+.head {
+  text-align: center;
+}
+
+ #Ack {
+        line-height: 1.5em;
+        font-style: italic;
+      }
+      h1,
+      h2,
+      h3,
+      h4 {
+        text-decoration: underline black;
+      }
